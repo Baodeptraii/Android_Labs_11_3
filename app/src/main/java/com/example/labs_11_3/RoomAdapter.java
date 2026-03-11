@@ -1,5 +1,5 @@
 package com.example.labs_11_3;
-
+//
 import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
 import android.view.LayoutInflater;
